@@ -1,6 +1,6 @@
 {
   "title": "html2canvas",
-  "name": "html2canvas",
+  "name": "@xuannghia/html2canvas",
   "description": "Screenshots with JavaScript",
   "main": "dist/html2canvas.js",
   "module": "dist/html2canvas.esm.js",
