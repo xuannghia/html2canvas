@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.2](https://github.com/xuannghia/html2canvas/compare/v1.3.2...v1.4.2) (2024-01-17)
+
+
+### Features
+
+* add support for <video> elements ([#2788](https://github.com/xuannghia/html2canvas/issues/2788)) ([181d1b1](https://github.com/xuannghia/html2canvas/commit/181d1b1103910d6e1b5277d5c007fc5e3006c6bf))
+* use native text segmenter where available ([#2782](https://github.com/xuannghia/html2canvas/issues/2782)) ([6521a48](https://github.com/xuannghia/html2canvas/commit/6521a487d78172f7179f7c973c1a3af40eb92009))
+
+
+### Bug Fixes
+
+* "offsets" text when font is big ([fd22a01](https://github.com/xuannghia/html2canvas/commit/fd22a01a3c9e39293f47caaed0c0e13d2dc8170c))
+* adopted stylesheets ([#2785](https://github.com/xuannghia/html2canvas/issues/2785)) ([74696fa](https://github.com/xuannghia/html2canvas/commit/74696faf47c07b48b9c9587db0b999da1c08a8be))
+* const enums ([#2651](https://github.com/xuannghia/html2canvas/issues/2651)) ([eeda86b](https://github.com/xuannghia/html2canvas/commit/eeda86bd5e81fb4e97675fe9bee3d4d15899997f))
+* font loading issue ios 13 ([acd892d](https://github.com/xuannghia/html2canvas/commit/acd892d162951a4b28092e014e81b84473ccf964))
+* font loading issue ios 13 ([f8353fb](https://github.com/xuannghia/html2canvas/commit/f8353fbf1e79cfa83ffea72869770d30e01314ee))
+* ios 15 font rendering crash ([#2645](https://github.com/xuannghia/html2canvas/issues/2645)) ([ba2b1cd](https://github.com/xuannghia/html2canvas/commit/ba2b1cd8e9a9d7932675d7abffce1526a609e769))
+* ios 15.4 issue ([4d13391](https://github.com/xuannghia/html2canvas/commit/4d133919d9e993a95e32c32215335bd95a6f52d5))
+* ios text wrapping with 0 width rect ([#2786](https://github.com/xuannghia/html2canvas/issues/2786)) ([0476d06](https://github.com/xuannghia/html2canvas/commit/0476d065158c33d2020a9f602b3043e5e2f90c75))
+* prettier ([b3f9416](https://github.com/xuannghia/html2canvas/commit/b3f9416c210a24347be64b88389f7987a10cbac9))
+* Properties x and y of BoundingRect is undefined in old browser ([#2797](https://github.com/xuannghia/html2canvas/issues/2797)) ([e587a82](https://github.com/xuannghia/html2canvas/commit/e587a82dca01d9ada78cae34fd1bdb934e547f9b))
+* reduce SLICE_STACK_SIZE to 50k ([#2784](https://github.com/xuannghia/html2canvas/issues/2784)) ([1cc853a](https://github.com/xuannghia/html2canvas/commit/1cc853a3186853eaca00af060f651697dc3497a9))
+* source maps ([#2787](https://github.com/xuannghia/html2canvas/issues/2787)) ([46db867](https://github.com/xuannghia/html2canvas/commit/46db86755f064828559a4b0b37310f3ae94f5494))
+
 ## [1.4.1](https://github.com/niklasvh/html2canvas/compare/v1.4.0...v1.4.1) (2022-01-22)
 
 
